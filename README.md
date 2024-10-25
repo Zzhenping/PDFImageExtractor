@@ -11,4 +11,4 @@ PDFImageExtractor是一个从 PDF 文件中提取图像的 Python GUI使用程�
 
 **项目截图**
 
-![项目截图](https://github.com/Zzhenping/PDFImageExtractor/docs/image.png?raw=true)
+![项目截图](https://github.com/Zzhenping/PDFImageExtractor/blob/main/docs/image.png?raw=true)
